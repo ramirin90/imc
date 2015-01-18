@@ -13,12 +13,6 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 
-
-
-
-
-
-
 public class MainActivity extends ActionBarActivity {
    // private static final String TAG = "MyActivity";
 
