@@ -89,8 +89,6 @@ public class MainActivity extends ActionBarActivity {
             double estatura = Double.parseDouble(txt_estatura.getText().toString());
 
             if(peso<=0 || estatura<=0){
-
-
                 Exception ex = new Exception();
                 throw ex;
             }
