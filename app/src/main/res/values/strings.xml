@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Indice de Masa Corporal</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="string1">Indice de masa corporal IMC</string>
+    <string name="string2">Ingresa tu estatura en Metros</string>
+    <string name="string3">Ingresa tu peso en kilogramos</string>
+    <string name="string4">Calcular IMC</string>
+    <string name="string5">"                                            "</string>
+
+</resources>
